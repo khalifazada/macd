@@ -1,0 +1,14 @@
+Initial Deposit = 6718.80=0.01*(2^(10+1)-12)*330
+
+This optimization is the 3rd in sequence that allowed to fix all other inputs. The macdThreshold parameter shows a very sharp change in behavior above values equal to 580-590. Sorting the optimization results by Profit in desc order shows that starting from 586 macdThreshold value shows very solid profit. Looking into the Journal we see that somewhere below macdThreshold value 580 all results drastically change to failures and are rejected by the Tester.
+
+For other inputs:
+Maximum safety level 10 was set during first optimization when the rule of consecutive losses not to exceed 7 was set.
+
+MACD parameters are set to 1,24 and 1 for signal. The idea is to observe a H1 timeframe with these inputs to represent a single day of events.
+
+For this template "karusel.tpl" must be used to show an EMA(24) around price, MACD(1,24,1) and StdDev(24) -> EMA(4000)
+
+EMA(4000)=0.003XX. Expressed in market points the value is 3 hundred somethings. The number 330 surfaced during 2nd optimization for parameter orderDistance=330.
+
+Time interval for optimization was chosen 1 year (2013.01.01-2014.01.01). I shall now proceed to testing these inputs forward in time with a 1 year increasing interval.

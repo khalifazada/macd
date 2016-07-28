@@ -1,0 +1,12 @@
+Open 1 market & N-1 pending orders on the 1st tick of a new bar when all of the following conditions are true:
+
+1. Extremum point on MACD is detected
+2. StdDev > its MA
+3. Stoch direction = MACD direction & cross occured in extreme area.
+
+a) Order distance = StdDev(60) reading.
+b) TP level at constant * order distance, constant > 1
+
+Momeny Management follows the Extended Martingale Betting system implementing either Mersenne sequence.
+
+If the strategy proves to demonstrate low n levels then implement n^2 sequence.

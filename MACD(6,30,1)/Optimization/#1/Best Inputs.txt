@@ -1,0 +1,11 @@
+Pass	Profit		Trades	PrFact	Exp Pay	Drawdown	Drawdown %	Inputs
+195	77229.62	293	2.06	263.58	30397.18	66.61%		N=10 	macdThreshold=200 	stDevMult=2 	stDevDist=800	macdFastEMA=6 	macdSlowEMA=30
+210	64598.71	243	2.21	265.84	22417.28	80.51%		N=9 	macdThreshold=200 	stDevMult=2 	stDevDist=900	macdFastEMA=6 	macdSlowEMA=30
+12	59900.71	246	2.08	243.50	16276.61	83.12%		N=9 	macdThreshold=200 	stDevMult=1.9 	stDevDist=900	macdFastEMA=6 	macdSlowEMA=30
+227	40833.65	321	1.87	127.21	15327.48	78.65%		N=10 	macdThreshold=200 	stDevMult=1.8 	stDevDist=800	macdFastEMA=6 	macdSlowEMA=30
+64	40827.93	272	1.97	150.10	16276.61	95.60%		N=9 	macdThreshold=200 	stDevMult=1.8 	stDevDist=900	macdFastEMA=6 	macdSlowEMA=30
+202	26011.27	206	2.01	126.27	9990.90		42.89%		N=9 	macdThreshold=300 	stDevMult=1.8 	stDevDist=900	macdFastEMA=6 	macdSlowEMA=30
+
+Special:
+182	Parameters	N=5; macdThreshold=600; macdFastEMA=6; macdSlowEMA=30; stDevMult=1.8; stDevDist=900;
+NOTE: See 6th Backtest

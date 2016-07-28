@@ -1,0 +1,5 @@
+Pass	Profit		Trades	PrFac	ExpPay	Drawdown	Drawdown%	Inputs
+294	640245.63	223	2.15	2871.06	130341.28	18.97%		N=11 	macdThreshold=220 	stDevMult=2.06 	stDevDist=910	macdFastEMA=6 	macdSlowEMA=30
+95	596845.45	209	2.17	2855.72	132071.38	15.86%		N=11 	macdThreshold=230 	stDevMult=2.06 	stDevDist=940	macdFastEMA=6 	macdSlowEMA=30
+388	575345.89	195	2.24	2950.49	111480.30	15.86%		N=11 	macdThreshold=230 	stDevMult=2.12 	stDevDist=940	macdFastEMA=6 	macdSlowEMA=30
+259	555014.28	210	2.16	2642.93	111480.30	15.86%		N=11 	macdThreshold=220 	stDevMult=2.06 	stDevDist=940	macdFastEMA=6 	macdSlowEMA=30

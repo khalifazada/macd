@@ -1,0 +1,2 @@
+2yr (2014-2016) Forward test with settings from Pass 1654 of 3rd Optimization
+Pass 1654 was also backtested for 2yr (2012-2014). See 7th Backtest

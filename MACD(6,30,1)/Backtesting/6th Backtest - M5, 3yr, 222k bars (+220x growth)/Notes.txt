@@ -1,0 +1,1 @@
+This backtest demonstrated that long term profitability is possible. It opens very few trades. In 3 years of backtests only 53 trades were opened. Most of the time the EA is idle and this allows it to be implemented on multiple currencies at the same time.

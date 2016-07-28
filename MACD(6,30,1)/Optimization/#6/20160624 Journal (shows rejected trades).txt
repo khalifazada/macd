@@ -1,0 +1,107 @@
+0	00:04:16.452	Tester: template 'C:\Users\Chingiz Khalifazada\AppData\Roaming\MetaQuotes\Terminal\50CA3DFB510CC5A8F28B48D1BF2A5702\templates\tester.tpl' applied
+3	00:04:16.487	Tester: cache file "C:\Users\Chingiz Khalifazada\AppData\Roaming\MetaQuotes\Terminal\50CA3DFB510CC5A8F28B48D1BF2A5702\tester\caches\MACDTradingAlgorithm-v140.GBPUSD60.0" found and can be used for further optimization
+3	00:04:16.489	TestGenerator: actual tick file "C:\Users\Chingiz Khalifazada\AppData\Roaming\MetaQuotes\Terminal\50CA3DFB510CC5A8F28B48D1BF2A5702\tester\history\GBPUSD60_0.fxt" found
+2	00:04:16.490	MACDTradingAlgorithm-v140: optimization started
+3	00:04:47.306	Tester: stop button pressed
+2	00:04:47	2013.02.12 17:36  Tester: order #131 is closed
+2	00:04:47.306	MACDTradingAlgorithm-v140: optimization stopped in 0:00:30
+0	00:04:47.374	There were 4 passes done during optimization
+0	00:04:49.208	Expert MACDTradingAlgorithm-v140 GBPUSD,H1: removed
+0	00:04:49.274	Expert MACDTradingAlgorithm-v140 GBPUSD,H1: loaded successfully
+0	00:05:08.437	Tester: template 'C:\Users\Chingiz Khalifazada\AppData\Roaming\MetaQuotes\Terminal\50CA3DFB510CC5A8F28B48D1BF2A5702\templates\tester.tpl' applied
+3	00:05:08.437	TestGenerator: actual tick file "C:\Users\Chingiz Khalifazada\AppData\Roaming\MetaQuotes\Terminal\50CA3DFB510CC5A8F28B48D1BF2A5702\tester\history\GBPUSD60_0.fxt" found
+2	00:05:08.437	MACDTradingAlgorithm-v140: optimization started
+2	00:05:19.507	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=535; 
+2	00:05:43.917	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=550; 
+2	00:06:18.538	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=533; 
+2	00:06:47.027	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=582; 
+2	00:07:03.571	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:07:18.357	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=581; 
+2	00:07:37.720	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=481; 
+2	00:07:48.295	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=526; 
+2	00:08:04.468	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=505; 
+2	00:08:14.193	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:08:23.538	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=574; 
+2	00:08:34.446	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=510; 
+2	00:08:43.792	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=569; 
+2	00:08:53.116	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=575; 
+2	00:09:02.904	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=558; 
+2	00:09:53.519	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=496; 
+2	00:10:04.401	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=513; 
+2	00:10:22.868	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=546; 
+2	00:10:40.831	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=534; 
+2	00:10:51.019	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=549; 
+2	00:11:00.423	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=567; 
+2	00:11:25.497	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=508; 
+2	00:11:35.346	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=555; 
+2	00:11:48.068	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=471; 
+2	00:12:04.068	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=536; 
+2	00:12:14.436	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=542; 
+2	00:12:54.495	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=509; 
+2	00:13:05.422	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=521; 
+2	00:13:28.080	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=546; 
+2	00:13:38.925	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=513; 
+2	00:13:49.520	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=536; 
+2	00:13:59.164	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=558; 
+2	00:14:10.027	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=513; 
+2	00:14:19.096	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=581; 
+2	00:14:33.732	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=575; 
+2	00:14:46.513	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=471; 
+2	00:14:56.875	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=542; 
+2	00:15:06.102	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=575; 
+2	00:15:18.390	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=481; 
+2	00:15:29.393	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=508; 
+2	00:15:42.285	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:15:51.570	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=574; 
+2	00:16:01.680	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=550; 
+2	00:16:10.968	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=569; 
+2	00:16:23.583	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=481; 
+2	00:16:33.710	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=549; 
+2	00:16:42.582	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=582; 
+2	00:16:53.545	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=513; 
+2	00:17:02.799	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=574; 
+2	00:17:12.965	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=546; 
+2	00:17:24.774	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=486; 
+2	00:17:34.955	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=550; 
+2	00:17:44.609	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=558; 
+2	00:17:53.486	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=581; 
+2	00:18:04.044	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=536; 
+2	00:18:14.957	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=509; 
+2	00:18:23.909	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=581; 
+2	00:18:37.200	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=471; 
+2	00:18:49.612	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=521; 
+2	00:19:06.428	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=510; 
+2	00:19:21.551	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:19:32.867	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=526; 
+2	00:19:45.259	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:19:56.276	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=581; 
+2	00:20:08.727	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=481; 
+2	00:20:18.426	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:20:28.007	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=575; 
+2	00:20:37.602	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=574; 
+2	00:20:48.865	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=509; 
+2	00:20:59.572	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=533; 
+2	00:21:09.067	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=575; 
+2	00:21:20.231	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=521; 
+2	00:21:35.938	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:21:49.418	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:22:00.314	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=526; 
+2	00:22:11.613	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=510; 
+2	00:22:20.852	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=582; 
+2	00:22:31.862	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=509; 
+2	00:22:42.020	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:22:53.418	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=521; 
+2	00:23:05.844	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=486; 
+2	00:23:19.772	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:23:33.580	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:23:43.537	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=575; 
+2	00:23:57.349	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:24:16.734	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=470; 
+2	00:24:25.872	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=582; 
+2	00:24:35.812	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:24:48.121	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=486; 
+2	00:24:58.531	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:25:08.743	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=559; 
+2	00:25:28.277	MACDTradingAlgorithm-v140: stopped due test limit 'consecutive loss trades=7' reached with inputs: macdThreshold=494; 
+2	00:25:28.281	MACDTradingAlgorithm-v140: optimization finished in 0:20:19, 155 cache records were used, 155 cache records rejected
+0	00:25:28.296	There were 34 passes done during optimization, 92 results have been discarded as insignificant

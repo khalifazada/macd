@@ -1,0 +1,16 @@
+Running time 15 hr 46 min 09 sec
+
+Best Inputs:
+Pass	Profit		Trades	Pr Fac	Exp Pay	Drawdown	Drawdown%	Inputs
+1654	51195.11	400	1.59	127.99	13632.44	10.57%		macdThreshold=260 	stDevMult=1.35 	stDevDist=360	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1601	40713.89	164	2.00	248.26	12875.09	10.37%		macdThreshold=350 	stDevMult=1.75 	stDevDist=360	N=10 	macdFastEMA=6 	macdSlowEMA=30
+783	36414.85	814	1.32	44.74	12974.42	11.44%		macdThreshold=100 	stDevMult=1 	stDevDist=500	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1410	34870.26	128	2.02	272.42	13511.55	12.30%		macdThreshold=350 	stDevMult=1.75 	stDevDist=610	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1581	34314.14	42	3.26	817.00	11185.40	9.37%		macdThreshold=560 	stDevMult=3 	stDevDist=390	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1551	34314.14	42	3.26	817.00	11185.40	9.37%		macdThreshold=570 	stDevMult=3 	stDevDist=390	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1540	34314.14	42	3.26	817.00	11185.40	9.37%		macdThreshold=550 	stDevMult=3 	stDevDist=390	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1663	33892.87	144	2.03	235.37	11931.09	10.08%		macdThreshold=360 	stDevMult=1.75 	stDevDist=370	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1443	32926.86	142	2.03	231.88	12117.73	10.32%		macdThreshold=360 	stDevMult=1.75 	stDevDist=360	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1668	32825.89	42	3.20	781.57	11185.40	9.49%		macdThreshold=550 	stDevMult=2.95 	stDevDist=380	N=10 	macdFastEMA=6 	macdSlowEMA=30
+1630	32080.69	141	2.03	227.52	15090.87	12.86%		macdThreshold=360 	stDevMult=1.75 	stDevDist=340	N=10 	macdFastEMA=6 	macdSlowEMA=30
+61	31565.12	125	2.06	252.52	12935.55	11.78%		macdThreshold=350 	stDevMult=1.75 	stDevDist=620	N=10 	macdFastEMA=6 	macdSlowEMA=30
