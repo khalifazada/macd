@@ -1,3 +1,0 @@
-Program an indicator that displays a channel of Highs and Lows, as well as tracks the HL/2 midpoint. Against this, plot EMA(24) on H1 and analyze price itself. Reason for this indicator is to aid visualizing the calculations that MACD(1,24,1) and StdDev(24)->EMA(inf) do.
-
-Karusel catches waves. It activates Buys and Sells when particular conditions are met.
